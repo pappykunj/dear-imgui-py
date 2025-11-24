@@ -47,7 +47,7 @@ python dashboard_adsb.py
 
 ADS-B Dashboard:
 
-![Dashboard](Assets/Images/dashboard.png)
+![Dashboard](Assets/Images/dashboard_adsb.png)
 
 Live Map:
 
